@@ -28,7 +28,7 @@ A Python-based automated scanner for detecting Cross-Site Scripting (XSS) vulner
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Xss_g0d.git
+   https://github.com/OMANA-droid/Xss_g0d.git
    cd Xss_g0d
 
 2. (Recommended) Create a virtual environment and activate it:
